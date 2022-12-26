@@ -1,0 +1,34 @@
+[
+    {
+        "firstName": "sami",
+        "middleName": "Moha213",
+        "lastName": "Moha345",
+        "phoneNumber": "+905346028160",
+        "note": "Moha",
+        "address": "Turkey istanbul"
+    },
+    {
+        "firstName": "akef",
+        "middleName": "salem",
+        "lastName": "guzal",
+        "phoneNumber": "+905346428167",
+        "note": "Moha",
+        "address": "Jordan amman"
+    },
+    {
+        "firstName": "sami",
+        "middleName": "samir",
+        "lastName": "alawdi",
+        "phoneNumber": "+905345028460",
+        "note": "smair alawdi",
+        "address": "Egypt cairo"
+    },{
+        "firstName": "ali",
+        "middleName": "mohammed",
+        "lastName": "nauaf",
+        "phoneNumber": "+905346328160",
+        "note": "nubmer ali",
+        "address": "Palestine gaza"
+    }
+    
+]
